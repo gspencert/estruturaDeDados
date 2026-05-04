@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\guisp\\OneDrive\\Área de Trabalho\\CODE\\EstruturadeDados\\C#\\Desafio Clima\\desafioClima\\desafioClima.csproj": {}
+    "C:\\Users\\guisp\\OneDrive\\Área de Trabalho\\CODE\\estruturaDeDados\\C#\\Desafio Clima\\desafioClima\\desafioClima.csproj": {}
   },
   "projects": {
-    "C:\\Users\\guisp\\OneDrive\\Área de Trabalho\\CODE\\EstruturadeDados\\C#\\Desafio Clima\\desafioClima\\desafioClima.csproj": {
+    "C:\\Users\\guisp\\OneDrive\\Área de Trabalho\\CODE\\estruturaDeDados\\C#\\Desafio Clima\\desafioClima\\desafioClima.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guisp\\OneDrive\\Área de Trabalho\\CODE\\EstruturadeDados\\C#\\Desafio Clima\\desafioClima\\desafioClima.csproj",
+        "projectUniqueName": "C:\\Users\\guisp\\OneDrive\\Área de Trabalho\\CODE\\estruturaDeDados\\C#\\Desafio Clima\\desafioClima\\desafioClima.csproj",
         "projectName": "desafioClima",
-        "projectPath": "C:\\Users\\guisp\\OneDrive\\Área de Trabalho\\CODE\\EstruturadeDados\\C#\\Desafio Clima\\desafioClima\\desafioClima.csproj",
+        "projectPath": "C:\\Users\\guisp\\OneDrive\\Área de Trabalho\\CODE\\estruturaDeDados\\C#\\Desafio Clima\\desafioClima\\desafioClima.csproj",
         "packagesPath": "C:\\Users\\guisp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guisp\\OneDrive\\Área de Trabalho\\CODE\\EstruturadeDados\\C#\\Desafio Clima\\desafioClima\\obj\\",
+        "outputPath": "C:\\Users\\guisp\\OneDrive\\Área de Trabalho\\CODE\\estruturaDeDados\\C#\\Desafio Clima\\desafioClima\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

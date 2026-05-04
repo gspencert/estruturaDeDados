@@ -20,6 +20,11 @@ def contagem_progressiva(n):
         contagem_progressiva(n - 1)
         print(n) # codigo executado no desempilhamento de processo
 
+def soma_elementos(n):
+    if n > 10:
+        return n + soma_elementos(n - 1)
+    else:
+        return 0
 
 # main
 # contagem_regressiva(10)
