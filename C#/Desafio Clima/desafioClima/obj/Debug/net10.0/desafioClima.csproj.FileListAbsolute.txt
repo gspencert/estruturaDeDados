@@ -1,0 +1,14 @@
+C:\Users\guisp\OneDrive\Área de Trabalho\CODE\estrutura-de-dados-main\desafioC#\desafioClima\bin\Debug\net10.0\desafioClima.exe
+C:\Users\guisp\OneDrive\Área de Trabalho\CODE\estrutura-de-dados-main\desafioC#\desafioClima\bin\Debug\net10.0\desafioClima.deps.json
+C:\Users\guisp\OneDrive\Área de Trabalho\CODE\estrutura-de-dados-main\desafioC#\desafioClima\bin\Debug\net10.0\desafioClima.runtimeconfig.json
+C:\Users\guisp\OneDrive\Área de Trabalho\CODE\estrutura-de-dados-main\desafioC#\desafioClima\bin\Debug\net10.0\desafioClima.dll
+C:\Users\guisp\OneDrive\Área de Trabalho\CODE\estrutura-de-dados-main\desafioC#\desafioClima\bin\Debug\net10.0\desafioClima.pdb
+C:\Users\guisp\OneDrive\Área de Trabalho\CODE\estrutura-de-dados-main\desafioC#\desafioClima\obj\Debug\net10.0\desafioClima.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guisp\OneDrive\Área de Trabalho\CODE\estrutura-de-dados-main\desafioC#\desafioClima\obj\Debug\net10.0\desafioClima.AssemblyInfoInputs.cache
+C:\Users\guisp\OneDrive\Área de Trabalho\CODE\estrutura-de-dados-main\desafioC#\desafioClima\obj\Debug\net10.0\desafioClima.AssemblyInfo.cs
+C:\Users\guisp\OneDrive\Área de Trabalho\CODE\estrutura-de-dados-main\desafioC#\desafioClima\obj\Debug\net10.0\desafioClima.csproj.CoreCompileInputs.cache
+C:\Users\guisp\OneDrive\Área de Trabalho\CODE\estrutura-de-dados-main\desafioC#\desafioClima\obj\Debug\net10.0\desafioClima.dll
+C:\Users\guisp\OneDrive\Área de Trabalho\CODE\estrutura-de-dados-main\desafioC#\desafioClima\obj\Debug\net10.0\refint\desafioClima.dll
+C:\Users\guisp\OneDrive\Área de Trabalho\CODE\estrutura-de-dados-main\desafioC#\desafioClima\obj\Debug\net10.0\desafioClima.pdb
+C:\Users\guisp\OneDrive\Área de Trabalho\CODE\estrutura-de-dados-main\desafioC#\desafioClima\obj\Debug\net10.0\desafioClima.genruntimeconfig.cache
+C:\Users\guisp\OneDrive\Área de Trabalho\CODE\estrutura-de-dados-main\desafioC#\desafioClima\obj\Debug\net10.0\ref\desafioClima.dll
